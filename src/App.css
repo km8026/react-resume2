@@ -26,4 +26,9 @@
   left: 10px;
   font-size: 16px;
 }
- 
+
+label + input + label { display: none !important; }
+.pw-match {
+ color: red;
+ display: block !important;
+}
