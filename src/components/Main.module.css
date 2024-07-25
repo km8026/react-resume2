@@ -1,18 +1,16 @@
 html, body {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+ 
   overflow: hidden; /* 스크롤이 나오지 않게 설정 */
 }
 
+
+
 .search {
-  position: relative;
-  text-align: center;
+ 
 }
 
 .title {
+  
   text-align: center;
   margin: 20px;
 }
