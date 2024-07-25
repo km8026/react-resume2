@@ -7,7 +7,7 @@ const Main = () => {
   return (
       <div className={styles.search}>
         <div className={styles.title}>
-          <h2 onClick={() => { }}>CR</h2>
+          <h2>CR</h2>
           <div className={styles.search_box}>
             <input
               type="text"
